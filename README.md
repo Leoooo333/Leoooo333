@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Leoooo333
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning SE.
-- 💞️ I’m looking to collaborate on different projects!
+- 👋 Hi, I'm @Leoooo333
+- 👀 I'm interested in everything!
+- 🌱 I'm currently learning SE.
+- 💞️ I'm looking to collaborate on different projects!
+- ✨ See my [kaggle](https://www.kaggle.com/leoooo333)!
 - 📫 leochenjm@gmail.com
 
 <!---
