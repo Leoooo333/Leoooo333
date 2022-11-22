@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Junming Chen!
 - 👀 I'm interested in everything!
 - 🌱 I'm currently learning SE.
+- 🚀 I am keen on 3D Computer Vision.
 - 💞️ I'm looking to collaborate on different projects!
-- ✨ See my [kaggle](https://www.kaggle.com/leoooo333)!
+- ✨ See my [Personal Website](https://leoooo333.github.io/)!
 - 📫 leochenjm@gmail.com
 
 <!---
