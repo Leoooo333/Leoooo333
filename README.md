@@ -1,10 +1,8 @@
 - 👋 Hi, I'm Junming Chen!
-- 👀 I'm interested in everything!
-- 🌱 I'm currently learning SE.
 - 🚀 I am keen on 3D Computer Vision.
 - 💞️ I'm looking to collaborate on different projects!
 - ✨ See my [Personal Website](https://leoooo333.github.io/)!
-- 📫 leochenjm@gmail.com
+- 📫 Contact: leochenjm@gmail.com
 
 <!---
 Leoooo333/Leoooo333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
