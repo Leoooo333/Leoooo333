@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Leoooo333
+- 👋 Hi, I'm Junming Chen!
 - 👀 I'm interested in everything!
 - 🌱 I'm currently learning SE.
 - 💞️ I'm looking to collaborate on different projects!
