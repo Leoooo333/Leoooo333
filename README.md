@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Junming Chen!
-- 🚀 I am keen on 3D Computer Vision.
+- 🚀 I am keen on 3D Computer Vision & Computer Graphics.
 - 💞️ I'm looking to collaborate on different projects!
 - ✨ See my [Personal Website](https://leoooo333.github.io/)!
 - 📫 Contact: leochenjm@gmail.com
