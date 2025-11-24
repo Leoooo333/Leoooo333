@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Junming (Leo) Chen!
 - 🚀 I am keen on Generative Model for 3D Computer Vision & Computer Graphics.
-- 💞️ I'm looking for jobs! Also open to collaborating on different projects!
+- 💞️ I'm looking for collaborating on different projects!
 - ✨ See my [Personal Website](https://leoooo333.github.io/)!
 - 📫 Contact: leochenjm@gmail.com
 
